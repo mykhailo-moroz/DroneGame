@@ -1,0 +1,18 @@
+{
+    "name": "DroneGame.Landing",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5c478cbb4d9c26d4a86b9e637cc70361",
+        "GUID:91f3cfd56b0764fb4973380790cc548e",
+        "GUID:8c26edb72a5b44ef39c0bd009ec1322d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

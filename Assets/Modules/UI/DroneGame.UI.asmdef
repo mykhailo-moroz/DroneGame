@@ -1,0 +1,18 @@
+{
+    "name": "DroneGame.UI",
+    "rootNamespace": "",
+    "references": [
+        "DroneGame.Core",
+        "StansAssets.SceneManagement",
+        "MikeAssets.ModularServiceLocator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
